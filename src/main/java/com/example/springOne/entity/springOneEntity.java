@@ -1,4 +1,4 @@
-package com.example.springOne;
+package com.example.springOne.entity;
 
 public class springOneEntity {
 
